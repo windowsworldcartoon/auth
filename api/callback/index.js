@@ -8,4 +8,5 @@ const data = urlParams.get('data');
 if (data) {
     // Do something with the data
     //
+    
 }
